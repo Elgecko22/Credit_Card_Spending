@@ -68,13 +68,28 @@ The data I gathered was exported from my Chase Portal. The following is features
  
 ## 4. Current Spending Breakdown
 
-### Total Spent by Category
+### Dashboard 
+![Dashboard](Images/DashboardMain.png)
 
-[Insert Image]
+I created four visuals for the dashboard to give myself a quick overview of my spending habits and identify areas where I'm not maximizing my credit points.
 
-**Observations**
-- Shopping is the largest category, close to 50% but 
-  - Shopping should be spent more with the Freedom card due to 1.5x points on **all other purchases**.
+1. Spend by category (**Bar Chart**)
+2. Total Spent (**Bar Chart**)
+3. Monthly total spent (**Line Graph**)
+4. Number of Purchases (**Bar Graph**)
 
+
+### Total Spent Per Category
+![Total Spent Per Category](Images/TotalSpentPerCategory.png)
+- I created a stacked bar chart with a color mark to visualize the difference between **Freedom** (Blue) and **Sapphire** (Green). 
+
+### Monthly Total Spent
+![Monthly Total Spent](Images/MonthlyTotalSpent.png)
+- I created a line chart to visualize spending over time.
+- Useful for identifying trends in spending and to help see if the strategy is improving over time.
+
+
+## 5. Dashboard Analysis
+- Work In Progress.
 
 
