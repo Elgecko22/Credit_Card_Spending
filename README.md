@@ -5,7 +5,8 @@ This project analyzes two years of personal credit card transaction data (1,378 
 ---
 ## 2. Data Overview
 
-The data I gathered was exported from my Chase Portal. The following is features of the data set.
+The data I gathered was exported from my Chase Portal. The following are features of the data set.
+
 - Time period
   - 2024-2025
 - Total transactions
