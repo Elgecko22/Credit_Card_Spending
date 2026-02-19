@@ -106,6 +106,10 @@ I created four visuals for the dashboard to give myself a quick overview of my s
 
 ## Points Strategy Performance Summary
 
-For my overall performance on credit card points maximizng I will give myself a 7.5/1.0 because I believe that I used the Sapphire too much excleuding the first 3 months, where I received a bonus. I used the Sapphire for general purchase, where the Freedom is clearly the better card to use. I, however, did use the Sapphire correctly for travel, and one aspect that may be missing from the report is location. The Sapphire card does notcurrency exchangexchangee fee, which I traveled to Mexico and Spain in 2025, which could have saved me more than I would have earned in points. 
+Overall, the analysis indicates moderate efficiency in my credit card allocation strategy. While travel spending was largely optimized by using the Sapphire Preferred (which earns elevated rewards and has no foreign transaction fees), a meaningful portion of general purchases were incorrectly placed on the Sapphire instead of the Freedom Unlimited.
+
+Because the Freedom Unlimited earns 1.5× points on non-bonus purchases compared to 1× on the Sapphire, this misallocation reduced overall reward efficiency. The largest opportunity for improvement lies in reallocating everyday, non-bonus spending to the Freedom card.
+
+Additionally, the analysis does not fully quantify the benefit of avoiding foreign transaction fees. During international travel to Mexico and Spain in 2025, using the Sapphire likely generated savings beyond point optimization due to its 0% foreign transaction fee structure. Incorporating location-based analysis could further refine the model.
 
 
